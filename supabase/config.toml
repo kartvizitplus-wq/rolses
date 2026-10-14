@@ -1,0 +1,3 @@
+# iyzico ödeme sonrası geri dönüşü giriş anahtarı göndermez; fonksiyon kimliği kendi içinde doğrular.
+[functions.payments]
+verify_jwt = false
